@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9ed748d250791555e716661da542b451",
+  "assets/AssetManifest.json": "9dcff9a6d456cbbc8f4141cbd137a0e7",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/lib/assets/hammer_bg.jpg": "df9d8fe43b717ea99501e53dab969275",
-"assets/lib/assets/logo.png": "2931a337a19d9b34e46f0e8863c2a28b",
+"assets/lib/assets/balance.png": "25574028501235f70c44d3eb486bdf9c",
+"assets/lib/assets/hammer_bg.jpg": "958e527ffd897f712e277c1209e5dbb8",
+"assets/lib/assets/logo.png": "1f1981e72040108b1e548e6dd6270ddc",
 "assets/NOTICES": "179f9399908e9cfe8465df5ab666c730",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -19,9 +20,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cb5ea327303ba0d2da916dc852c3da4b",
-"/": "cb5ea327303ba0d2da916dc852c3da4b",
-"main.dart.js": "df10c56e9094390ad19849fbf43ec3bc",
+"index.html": "6d5b3fb5757414968eedfaa1f765254c",
+"/": "6d5b3fb5757414968eedfaa1f765254c",
+"main.dart.js": "5d7b67701b102e8c83ef7909e3b1f87f",
 "manifest.json": "207ea94ae4da7b8bfa79afab5ec6442a",
 "version.json": "d9a38c0a1966b91f233828db582230cb"
 };
